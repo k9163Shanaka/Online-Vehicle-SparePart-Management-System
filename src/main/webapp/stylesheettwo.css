@@ -1,0 +1,166 @@
+@charset "ISO-8859-1";
+ul {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	background-color:#333;
+}
+
+li {
+	float:left;
+	
+}
+
+li a{
+	
+	display:inline-block;
+	color:white;
+	text-align:center;
+	padding:14px 16px;
+	text-decoration:none;
+}
+
+li a:hover{
+	background-color:#111;
+}
+
+.active{
+	
+	background-color:red;
+}
+/*register  page*/
+
+
+body{
+		
+
+		background-color:#63738a;
+		background-position:center;
+		background-size:cover;
+		font-family:sans-serif;
+		margin-top:auto;
+		
+	}
+	
+	
+	
+.login-box{
+
+	
+	
+	margin-top:15vh;
+	margin-bottom: 150vh;
+	background-color: #b2beb5;
+	padding:50px;
+    left: 35%;
+   position: absolute;
+   width: 350px;
+   height:380px;
+  color: white;
+	
+	
+	
+	
+}
+.login-box h1{
+	float: left;
+	font-size: 40px;
+	border-bottom:8px solid #4caf50;
+	margin-bottom: 50px;
+	padding:13px 0
+}
+
+
+
+
+.firstname{
+	position:relative;
+	left:70px;
+	top:-37px;
+	
+	
+	padding: 10px 10px;
+	font-size:16px;
+	
+}
+
+
+.email{
+	position:relative;
+	left:70px;
+	top:-37px;
+	
+	
+	padding: 10px 10px;
+	font-size:16px;
+	
+}
+
+.usernamew{
+	position:relative;
+	left:70px;
+	top:-37px;
+	
+	
+	padding: 10px 10px;
+	font-size:16px;
+	
+}
+
+.password{
+	position:relative;
+	left:70px;
+	top:-37px;
+	
+	
+	padding: 10px 10px;
+	font-size:16px;
+	
+}
+
+.a {
+    position:relative;
+    
+    padding: 10px 10px;
+    color:black;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-decoration:none;
+    
+    overflow:hidden;
+    
+    align-items: center;    
+    justify-content: center;
+    font-family:consolas;
+    background:#28a745;
+    
+    cursor:pointer;
+    
+  
+	left:70px;
+	top:-37px;
+	
+	
+
+	font-size:16px;
+    
+    
+    
+}
+
+.a:hover
+{
+    color:white;
+    background: #3ac059;
+    
+    
+}
+
+
+/* success jsp page css*/
+
+h1{
+	color:white;
+	
+	}

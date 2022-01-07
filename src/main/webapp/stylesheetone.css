@@ -1,0 +1,104 @@
+@charset "ISO-8859-1";
+
+
+body{
+		
+
+		background-color: #63738a;
+		background-position:center;
+		background-size:cover;
+		font-family:sans-serif;
+		margin-top:auto;
+		
+	}
+	
+	
+.login-box{
+
+	
+	
+	margin-top:25vh;
+	background-color: #b2beb5;;
+	padding:50px;
+    left: 30%;
+   position: absolute;
+   width: 350px;
+  color: white;
+	
+	
+	
+	
+}
+
+.login-box h1{
+	float: left;
+	font-size: 40px;
+	border-bottom:8px solid #4caf50;
+	margin-bottom: 50px;
+	padding:13px 0
+}
+
+
+
+
+
+
+
+
+
+.usernames{
+	position:relative;
+	left:20px;
+	top:-2px;
+	
+	
+	padding:0px 0px 5px 22px;
+	font-size:16px;
+	
+}
+
+.passe{
+	position:relative;
+	left:25px;
+	top:-2px;
+	
+	
+	padding:0px 0px 5px 22px;
+	font-size:16px;
+	
+}
+
+
+
+
+
+
+
+
+
+.a {
+    position:relative;
+    display:inline-block;
+    padding: 10px 10px;
+    color:black;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-decoration:none;
+    font-size:12px;
+    overflow:hidden;
+    transition: 0.2s;
+    align-items: center;    
+    justify-content: center;
+    font-family:consolas;
+    background:#32CD32;
+    
+    cursor:pointer;
+}
+
+.a:hover
+{
+    color:white;
+    background: #00FF00;
+    box-shadow: 0 0 10px #00FF00,0 0 40px #00FF00,0 0 80px #00FF00;
+    
+}
